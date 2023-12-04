@@ -19,7 +19,7 @@ function App() {
   const [mode, setMode] = useState('light'); //Dark mode or not
 
 
-  // CODE FOR ALERT MESSAGE CONNECTING TO TOGGLE SWITCH
+  // CODE FOR ALERT MESSAGE CONNECTIN~G TO TOGGLE SWITCH
   const [alert, setAlert] = useState(null);
 
   const showAlert = (message, type)=> {
